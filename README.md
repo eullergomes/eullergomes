@@ -1,4 +1,11 @@
-### Olá! Me chamo Euller e sou desenvolvedor front end
+<h1 align="center">Olá! Me chamo Euller Gomes 👋</h1>
+<p align="center">Desenvolvedor web</p>
+<br>
+<ul>
+	<li>💻 Adoro desafios e estou sempre disposto a aprender!!</li>
+  <li>💾 Estudante de ciência da computação</li>
+</ul>
+<br>
 
 <div align="center">
   <a href="https://github.com/eullergomes">
