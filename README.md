@@ -1,12 +1,4 @@
-<h1 align="center">Hi! I'm Euller 👋</h1>
-<p align="center">Web developer</p>
-<br>
-<ul>
-	<li>💻 I love challenges and I'm always willing to learn!!!</li>
-  <li>💾 Computer Science Student</li>
-</ul>
-<br>
-
+## Hi, my name is Euller and I'm a Computer Science Student 👋💻
 <div align="center">
   <a href="https://github.com/eullergomes">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=eullergomes&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
