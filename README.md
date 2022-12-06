@@ -3,7 +3,7 @@
 <br>
 <ul>
 	<li>💻 I love challenges and I'm always willing to learn!!!</li>
-  <li>💾 Student Computer Science</li>
+  <li>💾 Computer Science Student</li>
 </ul>
 <br>
 
