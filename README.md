@@ -1,11 +1,10 @@
 # Hi There! 👋
 Full Stack Developer
 
-![Linkedin Badge](https://img.shields.io/badge/-Euller%20Gomes-7311F6?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eullergomes)
-[![Personal Badge](https://img.shields.io/badge/-Website-7311F6?style=flat-square&logo=Me&logoColor=white&link=[https://eullergomes.github.io/frontend-challenges](https://portfolioeuller-euller-gomes-projects.vercel.app))]([https://eullergomes.github.io/frontend-challenges](https://portfolioeuller-euller-gomes-projects.vercel.app))
-[![Gmail Badge](https://img.shields.io/badge/-eullertexeira@gmail.com-7311F6?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)](mailto:diego.schell.f@gmail.com)
-<!-- 
-[![Gmail Badge](https://img.shields.io/badge/-eullertexeira@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)](mailto:diego.schell.f@gmail.com) -->
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eullergomes)](https://www.linkedin.com/in/eullergomes)
+[![Personal Badge](https://img.shields.io/badge/-Website-6633cc?style=flat-square&logo=Me&logoColor=white&link=https://portfolioeuller-euller-gomes-projects.vercel.app)](https://portfolioeuller-euller-gomes-projects.vercel.app)
+[![Gmail Badge](https://img.shields.io/badge/-eullertexeira@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eullertexeira@gmail.com)](mailto:eullertexeira@gmail.com)
+
 
 - 🎓 Computer Science Student
 - 🌐 Passionate about web development
