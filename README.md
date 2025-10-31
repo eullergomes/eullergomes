@@ -45,4 +45,9 @@ Currently focusing on Next.js, TypeScript, and cloud integration with Docker and
 
 ![Euller top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eullergomes&layout=compact&langs_count=7&theme=radical)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=7311F6&section=footer"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eullergomes/eullergomes/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eullergomes/eullergomes/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/eullergomes/eullergomes/output/pacman-contribution-graph.svg">
+</picture>
+
