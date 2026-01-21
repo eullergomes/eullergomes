@@ -9,15 +9,14 @@
 
 ### 🚀 About Me  
 
-I'm a **Computer Science student** and **Full Stack Developer** passionate about building **modern, scalable, and user-focused web applications**.  
-I love transforming ideas into real products and continuously improving my skills through hands-on projects and experimentation.  
+I'm a **Full Stack Developer** driven by the challenge of building **robust, scalable, and high-performance web applications**. I recently graduated with a **Bachelor's in Computer Science**, with a strong foundation in software engineering and system architecture.
 
-Always curious, I enjoy learning new technologies, optimizing performance, and collaborating on **innovative projects** that create real-world impact.  
-I value clean code, good architecture, and teamwork as the foundation of any great product.  
+I specialize in the entire development lifecycle, from crafting intuitive user interfaces with **React and Next.js** to designing efficient back-end services and APIs. I enjoy solving complex problems, optimizing application performance, and writing clean, maintainable code. My goal is to deliver seamless digital experiences that make a real impact.
 
-- 🎓 Computer Science — 8th semester  
-- 💡 Passionate about software design, scalability, and performance
-- 🌎 Open to collaboration and new opportunities  
+- 🎓 **Bachelor of Computer Science** — Graduated Jan 2026
+- 💻 **Full Stack Developer** — Focused on end-to-end web solutions
+- 💡 Passionate about scalability, clean architecture, and modern web standards
+- 🌎 Open to collaboration and innovative projects
 
 ---
 
@@ -34,7 +33,10 @@ I value clean code, good architecture, and teamwork as the foundation of any gre
 ![Sass](https://img.shields.io/badge/Sass-212121?logo=sass&logoColor=fff)
 ![Styled Components](https://img.shields.io/badge/-styled--components-212121?style=flat&logo=styledcomponents)
 
-#### ⚙️ Back-end & Databases  
+#### ⚙️ Back-end & Databases
+![Kotlin](https://img.shields.io/badge/Kotlin-212121?logo=kotlin&logoColor=D532A3)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-212121?logo=springboot&logoColor=fff)
+![AWS](https://custom-icon-badges.demolab.com/badge/AWS-212121?logo=aws&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-212121?style=flat&logo=node.js)
 ![Express](https://img.shields.io/badge/Express-212121?logo=express&logoColor=fff)
 ![NestJS](https://img.shields.io/badge/NestJS-212121?logo=nestjs&logoColor=E0234E)
